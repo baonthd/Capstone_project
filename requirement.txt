@@ -1,0 +1,9 @@
+streamlit
+random
+joblib
+pdfplumber
+pandasre
+sklearn.fetaure_extraction.text
+sklearn.ensemble
+matplotlib.pyplot
+spacy
